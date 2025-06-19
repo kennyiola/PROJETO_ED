@@ -1,3 +1,10 @@
+/*
+** Função: Algoritmo de vetor dinâmico
+** Autor : Genilson Pereira & Matheus Henrique
+** Data : 19/06/2025
+** Observações:
+*/
+
 #include <stdio.h>
 #include "vetor.h"
 
